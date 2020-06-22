@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Mastermind",
+    "icon": "",
+    "version": "1.0.0",
+    "slug": "mastermind-react-native",
+    "android": {
+      "package": "com.mmeader.MasterMindReactNative",
+      "versionCode": 1
+    }
+  }
+}
